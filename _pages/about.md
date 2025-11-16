@@ -57,6 +57,7 @@ redirect_from:
 - **Wu, Yundong**, Kong, W., Lin, R., Xi, X. & Lv, T. (2025). Exploring The Correlation Between Personal Emotions, Implicit Theories Of Intelligence, And Academic Performance Among College Students. International Journal of Humanity, Social Science & Legal Research, 2(1), 1–21.
 - **Wu, Yundong**, Kong, W., Lv, T., Lin, R., Li, J., Xi, X., & Liu, B. (2025). The Relationship Between Anxiety and Academic Achievement of Middle School Students in Wuhan, Hubei Province, China. ICCK Transactions on Social Statistics and Computing, 2(1), 47–54. [[HTML]](https://www.icck.org/article/abs/jsspa.2025.267834)
 - **Wu, Yundong**, Kong, W., Lv, T., Lin, R., Li, J., Xi, X., & Liu, B. (2025). The Relationship Between Anxiety and Academic Achievement of Middle School Students in Wuhan, Hubei Province, China. ICCK Transactions on Social Statistics and Computing, 2(1), 47–54. [[HTML]](https://www.icck.org/article/abs/jsspa.2025.267834)
+- Kong, W., & **Wu, Y**. (2025). An Investigation into the Relationship Between Emotion, Cognitive Flexibility, and Mental Health Among College Students Based on Gender Differences and Its Mediating Mechanisms. Frontiers in Preventive Medicine, 1(2), 36-46. [[HTML]](https://www.researchgate.net/publication/397166439)
 - **吴云东** & 孔维俭. (2024). 高校青年志愿服务活动的现状及对策分析——以福建省泉州市为例. 志愿青年学刊, 23, 103-107.
 - **吴云东**, 林若凡 & 孔维俭. (2025). 护理专业大学生社会责任感的多维度分析：基于教育环境与个人特质的视角. 医学与健康科学研究, 1(1), 12–21. [[HTML]](https://www.researchgate.net/publication/397121005)
 - **吴云东**, 孔维俭, 吕婷婷 & 李锦涛. (2025). 毅力特质、成就目标定向与高中生数学学业成绩的关联性研究. 教育与教法, 1(1), 29–34. [[HTML]](https://www.researchgate.net/publication/392747655)
@@ -120,5 +121,6 @@ redirect_from:
 - 2024年11月 期刊《International Journal of Humanity，Social Science&Legal Research》审稿人
 - 2025年10月 期刊《Frontiers in Preventive Medicine》主编
 - 2025年10月 期刊《创新创业学刊》编辑
+
 
 
