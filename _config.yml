@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "许明星"
+title                    : "吴云东"
 description              : "一只快乐搬砖的科研小狗"
-repository               : "xumxing/xumxing.github.io"
+repository               : "xxdwyd/xxdwyd.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  G-GPSEM4BG5H # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  fQZQD0EwLaSOrp3EbALt2rjxHEY9pUvWuh1fS96xgNk # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification : -t3H4GiTffZdEILXva70gQKslBwZpIL3V-sXsL7Tu4U # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : CCEDAC2E01970A0FD50F6305A857460B # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "许明星"
-  avatar           : "images/xxxx.png"
-  bio              : "安徽大学"
-  location         : "安徽 合肥"
+  name             : "吴云东"
+  avatar           : "https://free.picui.cn/free/2025/11/16/69196a910cd31.jpg"
+  bio              : "Dongshin University"
+  location         : "Jeollanam-do, South Korea"
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "xmx20@mails.jlu.edu.cn"
-  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : "https://scholar.google.com/citations?user=tpqTLLsAAAAJ"
+  email            : "ethanwu0525@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Yundong-Wu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xumxing"
+  github           : #"xumxing"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "yundong-wu-b68705114/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0002-6856-7591"
+  orcid            : "https://orcid.org/0009-0007-4687-7149"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -161,3 +161,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
