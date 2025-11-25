@@ -56,7 +56,6 @@ redirect_from:
 - **Wu, Yundong**, Lin, R., Kong, W., & Xi, X. (2024). Between Comfort and Challenge: The Role of Social Support in Shaping College Students’ Happiness and Stress. Journal of Educational Theory and Practice, 1(4), 15–23. [[HTML]](https://www.researchgate.net/publication/387543022)
 - **Wu, Yundong**, Kong, W., Lin, R., Xi, X. & Lv, T. (2025). Exploring The Correlation Between Personal Emotions, Implicit Theories Of Intelligence, And Academic Performance Among College Students. International Journal of Humanity, Social Science & Legal Research, 2(1), 1–21.
 - **Wu, Yundong**, Kong, W., Lv, T., Lin, R., Li, J., Xi, X., & Liu, B. (2025). The Relationship Between Anxiety and Academic Achievement of Middle School Students in Wuhan, Hubei Province, China. ICCK Transactions on Social Statistics and Computing, 2(1), 47–54. [[HTML]](https://www.icck.org/article/abs/jsspa.2025.267834)
-- **Wu, Yundong**, Kong, W., Lv, T., Lin, R., Li, J., Xi, X., & Liu, B. (2025). The Relationship Between Anxiety and Academic Achievement of Middle School Students in Wuhan, Hubei Province, China. ICCK Transactions on Social Statistics and Computing, 2(1), 47–54. [[HTML]](https://www.icck.org/article/abs/jsspa.2025.267834)
 - Kong, W., & **Wu, Y**. (2025). An Investigation into the Relationship Between Emotion, Cognitive Flexibility, and Mental Health Among College Students Based on Gender Differences and Its Mediating Mechanisms. Frontiers in Preventive Medicine, 1(2), 36-46. [[HTML]](https://www.researchgate.net/publication/397166439)
 - **Wu, Y**, & Kong, W. (2025). The Synergistic Effect of Emotion and Cognition under Gender Regulation on College Students' Mental Health: An Intermediary Analysis. Intersections: Humanities, Education, and Social Sciences, 1(1), 1-15.[[HTML]](https://lumenpublishing.org/index.php/IHES/article/view/15)
 - **Wu, Y**, & Kong, W. (2025) A Study on Mechanisms Influencing Subjective Well-Being among Art and Design Majors: An Integrated Analysis of Social Support, Psychological Resilience, and Major Satisfaction. Journal of Social Development and History, 1(4), 1-10.
@@ -123,6 +122,7 @@ redirect_from:
 - 2024年11月 期刊《International Journal of Humanity，Social Science&Legal Research》审稿人
 - 2025年10月 期刊《Frontiers in Preventive Medicine》主编
 - 2025年10月 期刊《创新创业学刊》编辑
+
 
 
 
