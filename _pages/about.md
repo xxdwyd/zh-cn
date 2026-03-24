@@ -39,7 +39,7 @@ redirect_from:
 
 - **博士**，Ph.D, Dongshin University,South Korea, 师从Kwon JaeHwan教授
 - **硕士**，Education Management，INTI International University, Malaysia, 师从Gerald Victor Richard Joseph教授
-- **本科**，管理学, 北京交通大学
+- **本科**，北京交通大学
  
 <span class='anchor' id='-lwzl'></span>
 
