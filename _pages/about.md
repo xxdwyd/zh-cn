@@ -45,7 +45,8 @@ redirect_from:
 
 # 📑 学术论文
 
-
+- **Wu, Yundong**, Kong Wei Jian, & Lv Ting Ting. (2026). Strategies for Enhancing Subjective Well-Being in Art and Design Students: Evidence from Three Higher Vocational Colleges in Quanzhou, Fujian Province, China. International Journal of Sustainable Business and Social Science, 1(2). [[HTML]](https://www.mcglobaledu.com/journal/ijsbss/article/view/29)
+- **Wu, Yundong** (2026). The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies. Review of Resp AI, 1(2), 54–65. [[HTML]](https://doi.org/10.17613/tmqt8-ajh44)
 - **Wu, Yundong** & Kong, Weijian & Lin, Ruofan. (2025). The Impact of OECD on South Korean Education Policy: Balancing Global Governance and National Demand (1993-2022). Global Review of Humanities, Arts, and Society. 1. 41-64.[[HTML]](https://journals.indexcopernicus.com/search/article?articleId=4665927)
 - **Wu, Yundong**, Li, J., Kong, W. & Lin, R. (2025). Happiness Predicts academic achievement: A Longitudinal Empirical Analysis of Subjective Well-Being and Academic Performance Among College Students. (2025). New Horizon of Education, 1(1), 23-37.[[HTML]](https://www.researchgate.net/publication/395764683)
 - **Wu, Yundong**, Kong, W., Lv, T.,  Li, J., & Lin, R. (2024). Social Support and Subjective Well-Being in Chinese Art Students: The Moderating Effect of Positive Thinking. (2025). The Journal of Social Science and Humanities, 1(1), 8-25.[[HTML]](https://doi.org/10.64583/3k476m63)
