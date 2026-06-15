@@ -131,6 +131,7 @@ redirect_from:
 - 2025年10月 期刊《Frontiers in Preventive Medicine》主编
 - 2025年10月 期刊《创新创业学刊》编委
 - 2026年01月 期刊《华夏教育期刊》编委
+- 2026年01月 期刊《Global Education Bulletin》编委
 
 
 
