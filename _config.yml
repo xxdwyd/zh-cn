@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "吴云东"
+title                    : "WU YUNDONG的学术主页"
 description              : "一只快乐搬砖的科研小狗"
 repository               : "xxdwyd/xxdwyd.github.io"
 google_scholar_stats_use_cdn : false
@@ -28,7 +28,7 @@ author:
   employer         : #"Hefei General Machinery Research Institute"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tpqTLLsAAAAJ"
-  email            : "ethanwu0525@gmail.com"
+  email            : "me@wyd.cc.cd"
   researchgate     : "https://www.researchgate.net/profile/Yundong-Wu"
   uri              : 
   bitbucket        :
