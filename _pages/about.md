@@ -63,6 +63,7 @@ redirect_from:
 - **Wu, Y**, & Kong, W. (2025) A Study on Mechanisms Influencing Subjective Well-Being among Art and Design Majors: An Integrated Analysis of Social Support, Psychological Resilience, and Major Satisfaction. Journal of Social Development and History, 1(4), 1-10.
 - **Wu, Y**, Kong, W., & Lin, R. (2025). A Multidimensional Analysis of Social Responsibility Among Nursing College Students: A Perspective Based on Educational Environment and Personal Traits. Frontiers in Educational Innovation and Research, 1(3), 71–80. https://doi.org/10.62762/FEIR.2025.201639
 - **Wu, Y**. (2025). Integrating Artificial Intelligence into Education: Opportunities, Challenges, and Response Strategies. Al Lnnovations and Applications, 1(1), 115-124. https://doi.org/10.63944/sj51.AIA
+- Wu, Y., Xi, X., Liu, B., Kong, W., & Lv, T. (2025). The effect of motivation and commitment to learning on academic achievement among university students majoring in computer application technology. International Theory and Practice in Humanities and Social Sciences, 2(7), 94–105. https://doi.org/10.70693/itphss.v2i7.469
 - **吴云东** , & 孔. (2026). 学业自我效能感与人工智能依赖的关系研究——基于泉州市高职院校大学生的实证分析. Frontiers of Social Sciences and Humanities, 1(1). Retrieved from http://www.axonpublishing.org/index.php/rwshkqy/article/view/52
 - **吴云东** & 孔维俭. (2024). 高校青年志愿服务活动的现状及对策分析——以福建省泉州市为例. 志愿青年学刊, 23, 103-107.
 - **吴云东**, 林若凡 & 孔维俭. (2025). 护理专业大学生社会责任感的多维度分析：基于教育环境与个人特质的视角. 医学与健康科学研究, 1(1), 12–21. [[HTML]](https://www.researchgate.net/publication/397121005)
